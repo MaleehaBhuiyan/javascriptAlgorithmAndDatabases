@@ -7,5 +7,5 @@ function nestedEvenSum(obj, sum=0) {
         }
     }
     return sum; 
-  }
+}
   
